@@ -1,0 +1,57 @@
+html{
+    font-size:16px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('k.png');
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-repeat:repeat-x;
+    background-repeat:repeat-y;
+    background-repeat:repeat;
+    background-position: right top;
+}
+
+@font-face{
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+
+.typo-container{
+   margin-left: 75px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    
+}
+
+.xxx-large{
+    font-size: 3.052rem;
+}
+
+.xx-large{
+    font-size: 2.441rem;
+}
+
+.x-large{
+    font-size: 1.953rem;
+}
+.large{
+    font-size: 1.563rem;
+}
+.medium{
+    font-size: 1.25rem;
+}
+.small{
+    font-size: 1rem;
+}
+.x-small{
+    font-size: 0.8rem;
+}
+.xx-small{
+    font-size: 0.64rem;
+}
+.xxx-small{
+    font-size: 0.512rem;
+}

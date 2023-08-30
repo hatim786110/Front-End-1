@@ -1,0 +1,47 @@
+.flex-container{
+    display: flex;
+    background-color: rgb(121, 144, 144);
+    width: 750px;
+    height: 750px;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+
+
+.flex-items{
+    width: 75px;
+    height: 75px;
+    color: rgb(18, 2, 2);
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#flex-items-1{
+    background-color:rgb(112, 109, 109) ;  
+    order:5;
+}
+#flex-items-2{
+    background-color: rgb(54, 54, 76);
+    order: 4;
+}
+#flex-items-3{
+    background-color: red;
+    order: 3;
+}
+#flex-items-4{
+    background-color: yellow;
+    order: 2;
+}
+#flex-items-5{
+    background-color: green;
+    order: 1;
+}
+
+
+
+

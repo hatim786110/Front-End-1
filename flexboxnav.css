@@ -1,0 +1,28 @@
+nav ul {
+    display:flex;
+    height: 60px;
+    justify-content: flex-end;
+    font-size: 20px;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+nav ul li {
+    list-style: none;
+    margin-top: 10px;
+    margin: 20px;
+    
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.centertext{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 30px;
+    font-weight: 600;
+}

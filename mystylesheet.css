@@ -1,0 +1,40 @@
+
+#Logo{
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right:60px;
+    padding-top: 50px;
+}
+
+#Text{
+   
+    color: #75FB91;
+    
+}
+
+#Text2{
+color: beige;
+}
+
+.d-gridgap-2 col-3 mx-auto{
+    background-color: #75FB91;
+    color: black;
+    
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #dddedc;
+    padding: 20px;
+    width: 400px;
+    height: 220px;
+    margin: 0 auto;
+
+  }
+
